@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caijing</h1>
-<h3 align="center">A programmer</h3>
+<h3 align="center">A software engineer</h3>
 
-- 🌱 I’m currently learning **data mining**
+- 🌱 I’m currently learning **software-defined system**
 
 - 👨‍💻 All of my projects are available at [https://yoshikoli.github.io/myWorld/](https://yoshikoli.github.io/myWorld/)
 
